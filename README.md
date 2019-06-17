@@ -5,8 +5,8 @@ A simple pinpong game by using programing.
 
 ### detail:
 how to play it:
-Pressing the ‘w’ key will cause the left paddle to move up.
-Pressing the ‘s’ key will cause the left paddle to move down.
+- Pressing the ‘w’ key will cause the left paddle to move up.
++ Pressing the ‘s’ key will cause the left paddle to move down.
 Pressing the ‘o’ key will cause the right paddle to move up.
 Pressing the ‘k’ key will cause the right paddle to move down.
 Gameplay:
