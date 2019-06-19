@@ -1,6 +1,8 @@
 # Creating a simple Pong game
 
-A simple pinpong game by using programing.
+A simple pinpong game by using programing. Link to GitHub repo is [pingpong](https://github.com/beileitang/beileitang_pinpong)
+
+
 
 
 ### detail:
